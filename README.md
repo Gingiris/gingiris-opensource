@@ -1,20 +1,40 @@
----
-name: gingiris-opensource
-description: |
-  🇺🇸 Open Source Launch Marketing Playbook — Complete SOP from strategy to execution. GitHub star growth tactics, KOL partnership lists, Reddit marketing, community distribution across global channels.
-  
-  🇨🇳 开源项目发布整合营销手册 — 从战略到执行的完整 SOP。GitHub Star 增长策略、KOL 合作清单、Reddit 运营、海外群组分发。
-  
-  🇯🇵 オープンソースローンチマーケティングガイド — 戦略から実行までの完全SOP。GitHub Star成長戦略、KOLパートナーシップ、Redditマーケティング、グローバルコミュニティ配信。
-  
-  🇰🇷 오픈소스 런칭 마케팅 플레이북 — 전략부터 실행까지 완벽한 SOP. GitHub 스타 성장 전략, KOL 파트너십, Reddit 마케팅, 글로벌 커뮤니티 배포.
-  
-  Triggers: "open source launch" | "GitHub stars" | "OSS marketing" | "developer community" | "Reddit marketing" | "community distribution" | "开源发布" | "GitHub Star"
+<div align="center">
+
+<img src="assets/logo.png" alt="Gingiris Logo" width="120" />
+
+# Open Source Launch Marketing Playbook
+
+### Complete SOP for OSS launches — GitHub star growth, KOL partnerships, Reddit marketing, community distribution
+
+[![GitHub stars](https://img.shields.io/github/stars/Gingiris/gingiris-opensource?style=social)](https://github.com/Gingiris/gingiris-opensource/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+**[English](references/en/README.md) | [中文](#中文版) | [日本語](references/ja/README.md) | [한국어](references/ko/README.md)**
+
+</div>
+
 ---
 
-# 开源项目发布整合营销行动手册
+## ⭐ Star This Repo
 
-> 🌍 **Language / 语言**: [中文](#中文版) | [English](https://github.com/Gingiris/gingiris-opensource/blob/main/references/en/README.md) | [日本語](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ja/README.md) | [한국어](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ko/README.md)
+<img width="100%" src="assets/star.gif" alt="Star this repo" />
+
+If you find this playbook useful, a GitHub Star ⭐ helps others discover it!
+
+---
+
+## Why This Playbook?
+
+From the team behind [AFFiNE](https://github.com/toeverything/AFFiNE) (60k+ stars). This playbook contains the exact strategies that achieved:
+
+| Metric | Target |
+|--------|--------|
+| 🚀 Launch Day Stars | 500+ |
+| ⭐ First Week Stars | 1,000+ |
+| 📈 Daily New Stars (Week 1) | 100+ |
+| 🎬 KOL Quotes | 100-150 (5 days) |
+| 📱 Reddit Posts | 3-5 subreddits daily |
+| 💬 Community Shares | 50-100 groups daily |
 
 ---
 
@@ -38,7 +58,7 @@ description: |
 | 🚀 **发布日** | T-0 | 多渠道集中曝光，触发流量飞轮 |
 | 持续运营 | T+1~T+7 | 每日100+ Star，KOL Quote轰炸 |
 
-### 详细指南（中文）
+### 详细指南
 
 | 主题 | 文件 |
 |:---|:---|
@@ -64,13 +84,16 @@ description: |
 
 ---
 
-## 核心目标
+## About the Author
 
-| 指标 | 目标 |
-|:---|:---|
-| **发布日 Star** | 500+ |
-| **首周 Star** | 1,000+ |
-| **每日新增 Star** | ≥100（T+1 至 T+7） |
-| **KOL Quote** | 100-150 个（5天内） |
-| **Reddit 发帖** | 每天 3-5 个 Subreddit |
-| **群组分发** | 每天 50-100 个群组 |
+**Iris (生姜iris)** — Former cofounder & COO of AFFiNE, grew the project from 0 to 60k+ GitHub stars.
+
+- 🐦 Twitter: [@Gingiris_](https://twitter.com/Gingiris_)
+- 💬 Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
+- 📧 Consulting: OSS launch strategy available
+
+---
+
+## License
+
+MIT License - Use and adapt for your own open source launches!
