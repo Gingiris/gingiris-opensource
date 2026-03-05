@@ -89,8 +89,9 @@ From the team behind [AFFiNE](https://github.com/toeverything/AFFiNE) (60k+ star
 **Iris (生姜iris)** — Former cofounder & COO of AFFiNE, grew the project from 0 to 60k+ GitHub stars.
 
 - 🐦 Twitter: [@Gingiris_](https://twitter.com/Gingiris_)
+- 💼 LinkedIn: [Yipei Wei](https://www.linkedin.com/in/yipei-wei-550825105/)
 - 💬 Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
-- 📧 Consulting: OSS launch strategy available
+- 📧 Email: iris103195@gmail.com
 
 ---
 
