@@ -74,3 +74,21 @@ description: |
 | **KOL Quote** | 100-150 个（5天内） |
 | **Reddit 发帖** | 每天 3-5 个 Subreddit |
 | **群组分发** | 每天 50-100 个群组 |
+
+---
+
+## 🔍 SEO & GEO 优化
+
+> 让开源项目在搜索引擎和 AI 搜索中持续被开发者发现
+
+开源项目的流量来源不仅是 GitHub，还有 Google/Bing 搜索和 AI 搜索（ChatGPT 推荐工具时会引用你的文档）：
+
+| 主题 | 说明 |
+|:---|:---|
+| [SEO/GEO 指南](references/seo-geo-guide.md) | GitHub README 优化、官网 SEO、IndexNow、AI 引用优化 |
+
+**核心要点**:
+- GitHub Description + Topics 优化，提升 GitHub 搜索排名
+- README 结构化 + 关键词，便于 AI 提取
+- 官网实施 IndexNow，新版本发布秒级索引
+- 创建 vs 竞品对比页，获取长尾流量
