@@ -11,7 +11,7 @@
 [![ClawdHub](https://img.shields.io/badge/ClawdHub-Install-purple)](https://clawdhub.com/skills/gingiris-opensource)
 [![Languages](https://img.shields.io/badge/Languages-4-green)](#-multilingual-support)
 
-**[English](references/en/README.md) | [中文](SKILL.md) | [日本語](references/ja/README.md) | [한국어](references/ko/README.md)**
+**[English](https://github.com/Gingiris/gingiris-opensource/blob/main/references/en/README.md) | [中文](https://github.com/Gingiris/gingiris-opensource/blob/main/SKILL.md) | [日本語](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ja/README.md) | [한국어](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ko/README.md)**
 
 </div>
 

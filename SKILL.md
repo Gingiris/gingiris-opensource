@@ -14,7 +14,7 @@ description: |
 
 # 开源项目发布整合营销行动手册
 
-> 🌍 **Language / 语言**: [中文](#中文版) | [English](references/en/README.md) | [日本語](references/ja/README.md) | [한국어](references/ko/README.md)
+> 🌍 **Language / 语言**: [中文](#中文版) | [English](https://github.com/Gingiris/gingiris-opensource/blob/main/references/en/README.md) | [日本語](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ja/README.md) | [한국어](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ko/README.md)
 
 ---
 
