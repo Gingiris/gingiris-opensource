@@ -15,6 +15,10 @@
 
 ---
 
+> 💡 **Need a 1-on-1 architecture call for your B2B/Open-source launch? Book a session for $200** (Crypto/USDT and Wire Transfer accepted) — [Contact @Iris_carrot on Telegram](https://t.me/Iris_carrot)
+
+---
+
 ## ⭐ Star This Repo
 
 <img width="100%" src="assets/star.png" alt="Star this repo" />
