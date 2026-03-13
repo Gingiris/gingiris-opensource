@@ -67,6 +67,53 @@ From the team behind [AFFiNE](https://github.com/toeverything/AFFiNE) (60k+ star
 | 🚀 **Launch Day** | T-0 | Multi-channel concentrated exposure, trigger flywheel |
 | Sustained Operations | T+1 to T+7 | 100+ stars daily, KOL quote bombardment |
 
+
+### ⚡ Star Acceleration Tactics
+
+Beyond standard launch operations, these proven tactics can bring **hundreds of stars in a single push**:
+
+#### 1. 🎓 Student Community Penetration (India Focus)
+
+| Tactic | Impact | Notes |
+|:---|:---|:---|
+| **Hackathon Sponsors** | 200-500 stars/event | India has many student-focused hackathon sponsors who can mobilize participants |
+| **University Tech Clubs** | 50-100 stars/club | Partner with CS/Engineering societies at IITs, NITs |
+| **Student Ambassador Programs** | Ongoing | Convert enthusiastic users into campus advocates |
+
+> 💡 **Why India?** Large developer population, highly engaged student communities, strong open-source culture.
+
+#### 2. 🇨🇳 Chinese Community KOL Leverage
+
+| Approach | Example | Impact |
+|:---|:---|:---|
+| **Domain Expert Endorsements** | Pigsty creator sharing to database user groups | Targeted, high-conversion stars from relevant developers |
+| **Technical Community Leaders** | WeChat group admins, Zhihu columnists | Trusted voices in specific technical domains |
+| **Cross-Promotion** | Related OSS project maintainers | Mutual benefit, authentic recommendations |
+
+> 💡 **Key insight:** Find KOLs whose **user base overlaps** with your target audience. A database tool creator sharing to database groups = perfect match.
+
+#### 3. 🤝 Existing Influencer Network Activation
+
+| Type | Why It Works | Execution |
+|:---|:---|:---|
+| **Long-term Partners** | Already know your product, quick to respond | Personal outreach, easy "yes" |
+| **Product Advocates** | Genuinely like what you've built | Low effort, high authenticity |
+| **Previous Collaborators** | Established trust and workflow | Pace-controllable, reliable |
+
+> 💡 **Speed advantage:** Existing relationships = fast turnaround. You can **control the pace** of star growth.
+
+#### 4. 🔗 DevTool Startup Community Networks
+
+| Channel | Strategy | Notes |
+|:---|:---|:---|
+| **Discord Servers** | Share in similar devtool communities | Be a contributor first, not a spammer |
+| **LinkedIn** | Founder/team posts, tag relevant people | Day 1 they forget, Day 2 they post (be patient) |
+| **Slack Workspaces** | Developer-focused communities | Respect channel rules, add value |
+
+> 💡 **Pace control tip:** These are "passive" channels — people may not act immediately. Plan for Day 2 follow-through.
+
+---
+
 ### Detailed Guides (English)
 
 | Topic | File |
@@ -87,6 +134,53 @@ From the team behind [AFFiNE](https://github.com/toeverything/AFFiNE) (60k+ star
 ### 核心理念
 
 > 开源的本质是，请 developer 贡献爱（就是影响力），请 to B 客户贡献钱💰。开源这个 action 经过 SOP 的运营可以转化几百几千 star，带来很多 SMB 的 leads。**准备好商业模式再开源，才能承接住开源这个 action 带来的流量，避免浪费。**
+
+
+### ⚡ Star 加速策略
+
+除了标准的发布运营，以下策略可以**单次带来数百颗 Star**：
+
+#### 1. 🎓 学生社区渗透（印度市场）
+
+| 策略 | 影响力 | 备注 |
+|:---|:---|:---|
+| **Hackathon 赞助商** | 200-500 stars/场 | 印度有很多专门做学生群体的黑客松 sponsor，他们一次性能带来小几百个星 |
+| **大学技术社团** | 50-100 stars/社团 | 与 IITs、NITs 的 CS/工程学会合作 |
+| **学生大使计划** | 持续性 | 将热情用户转化为校园 advocate |
+
+> 💡 **为什么是印度？** 庞大的开发者群体、高度活跃的学生社区、浓厚的开源文化。
+
+#### 2. 🇨🇳 中文社区 KOL 借力
+
+| 方式 | 案例 | 效果 |
+|:---|:---|:---|
+| **领域专家背书** | Pigsty 作者帮忙写 PR 稿发到他的用户交流群 | 精准触达、高转化，都是 database 相关的开发者 |
+| **技术社区 leader** | 微信群群主、知乎专栏作者 | 在特定技术领域有公信力 |
+| **交叉推广** | 相关 OSS 项目维护者互推 | 互惠互利、真实推荐 |
+
+> 💡 **核心洞察：** 找**用户群高度重叠**的 KOL。数据库工具作者分享到数据库群 = 完美匹配。
+
+#### 3. 🤝 已有 Influencer 关系激活
+
+| 类型 | 为什么有效 | 执行方式 |
+|:---|:---|:---|
+| **长期合作伙伴** | 已经了解你的产品，回复很快 | 私信邀请，容易 say yes |
+| **产品 advocate** | 真心喜欢你做的东西 | 低成本、高真实度 |
+| **之前合作过的** | 建立了信任和工作流程 | 可控速、可靠 |
+
+> 💡 **速度优势：** 已有关系 = 快速响应。你可以**控制 star 增长的节奏**。
+
+#### 4. 🔗 DevTool Startup 社区网络
+
+| 渠道 | 策略 | 备注 |
+|:---|:---|:---|
+| **Discord** | 在类似 devtool 社区分享 | 先贡献价值，别当 spammer |
+| **LinkedIn** | 创始人/团队发帖，@相关的人 | 第一天他们可能忘了，第二天陆陆续续发（要有耐心） |
+| **Slack** | 开发者社区 workspace | 尊重频道规则，提供价值 |
+
+> 💡 **控速技巧：** 这些是「被动」渠道 — 人们不会立即行动。为 Day 2 的跟进做好计划。
+
+---
 
 ### 详细指南（中文）
 
