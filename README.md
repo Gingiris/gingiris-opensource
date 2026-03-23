@@ -26,6 +26,18 @@
 
 ## ⭐ Star This Repo
 
+## 🦞 Use with AI Agents
+
+This playbook is available as a **ClawdHub Skill** — install it directly into Claude Code, OpenClaw, or any compatible AI agent:
+
+```bash
+clawhub install gingiris-opensource
+```
+
+> Your AI agent can then help you execute OSS marketing strategies and track your GitHub growth.
+
+---
+
 <img width="100%" src="assets/star.png" alt="Star this repo" />
 
 If you find this playbook useful, a GitHub Star ⭐ helps others discover it!
