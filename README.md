@@ -21,6 +21,13 @@
 
 ---
 
+> 💡 **Why Star this?** 
+> *   **Battle-Tested**: Documents the exact strategies used for **30x PH #1** and **60k Stars**.
+> *   **AI-Native**: Battle-tested AI Agent Skills to automate your next 10k stars.
+> *   **PH Strategy**: Access the playbook that earned 30x Product Hunt #1.
+
+---
+
 > 💡 **Need a 1-on-1 architecture call for your B2B/Open-source launch? Book a session for $200** (Crypto/USDT and Wire Transfer accepted) — [Contact @Iris_carrot on Telegram](https://t.me/Iris_carrot)
 
 ---
