@@ -40,7 +40,26 @@
 
 ---
 
-> 💡 **Need a 1-on-1 architecture call for your B2B/Open-source launch? Book a session for $200** (Crypto/USDT and Wire Transfer accepted) — [Contact @Iris_carrot on Telegram](https://t.me/Iris_carrot)
+> 💼 **Work With Iris**
+>
+> **1. Strategic Consultation (1v1)**
+> | Session | Price | Best For |
+> |:--------|:------|:---------|
+> | Quick Call (30 min) | $150 USD | Specific questions, quick diagnosis |
+> | Deep Dive (60 min) | $300 USD | Full strategy review, detailed roadmap |
+>
+> **2. Advisory Retainer**
+> | Plan | Price | Includes |
+> |:-----|:------|:---------|
+> | Monthly Retainer | $1,500 USD/mo | Up to 5 hours strategic consultation + key milestone reviews |
+>
+> **3. Playbooks & Templates**
+> | Package | Price | Contents |
+> |:--------|:------|:---------|
+> | Starter Pack | $29 USD | Core methodology + essential tools |
+> | Flagship Bundle | $199 USD | Complete SOP, competitor research framework, templates |
+>
+> 📩 [Contact @Iris_carrot on Telegram](https://t.me/Iris_carrot) — Crypto/USDT and Wire Transfer accepted
 
 ---
 
