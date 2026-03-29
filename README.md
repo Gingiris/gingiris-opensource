@@ -349,7 +349,8 @@ Want all four playbooks in one comprehensive package? Get the **Open-Source Proj
 - 🐦 Twitter: [@WeiYipei](https://x.com/WeiYipei)
 - 💼 LinkedIn: [Yipei Wei](https://www.linkedin.com/in/yipei-wei-550825105/)
 - 💬 Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
-- 📧 Email: iris103195@gmail.com
+- 📱 即刻: 生姜iris
+- 📧 公众号: 云宝的桃花坞
 
 ---
 
