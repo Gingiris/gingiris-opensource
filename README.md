@@ -346,7 +346,7 @@ Want all four playbooks in one comprehensive package? Get the **Open-Source Proj
 
 **Iris (生姜iris)** — Former cofounder & COO of AFFiNE, grew the project from 0 to 60k+ GitHub stars.
 
-- 🐦 Twitter: [@Gingiris_](https://twitter.com/Gingiris_)
+- 🐦 Twitter: [@WeiYipei](https://x.com/WeiYipei)
 - 💼 LinkedIn: [Yipei Wei](https://www.linkedin.com/in/yipei-wei-550825105/)
 - 💬 Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
 - 📧 Email: iris103195@gmail.com
