@@ -1,0 +1,61 @@
+name: Star Milestone Tracker
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  track-stars:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check star milestones and notify
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          python3 << 'PYEOF'
+          import requests, os, json
+
+          token = os.environ['GH_TOKEN']
+          repo = os.environ['REPO']
+          headers = {'Authorization': f'token {token}', 'Accept': 'application/vnd.github.v3+json'}
+
+          # Get current star count
+          r = requests.get(f'https://api.github.com/repos/{repo}', headers=headers)
+          data = r.json()
+          current_stars = data['stargazers_count']
+          repo_name = data['name']
+
+          print(f"Current stars for {repo}: {current_stars}")
+
+          # Milestones to celebrate
+          milestones = [10, 25, 50, 100, 150, 200, 250, 300, 400, 500, 750, 1000, 1500, 2000, 5000, 10000]
+
+          # Check if we just crossed a milestone
+          for milestone in milestones:
+              if current_stars >= milestone:
+                  # Check if we have a file tracking the last celebrated milestone
+                  try:
+                      r2 = requests.get(
+                          f'https://api.github.com/repos/{repo}/contents/.github/star_milestone.txt',
+                          headers=headers
+                      )
+                      if r2.status_code == 200:
+                          last_milestone = int(requests.utils.unquote(
+                              __import__('base64').b64decode(r2.json()['content']).decode().strip()
+                          ))
+                      else:
+                          last_milestone = 0
+                  except:
+                      last_milestone = 0
+
+                  if current_stars >= milestone and last_milestone < milestone:
+                      print(f"MILESTONE REACHED: {milestone} stars!")
+                      # Create a GitHub Discussion to celebrate
+                      # (This would normally trigger a notification)
+                      print(f"Celebration: {repo_name} has reached {milestone} stars!")
+                      break
+
+          PYEOF
