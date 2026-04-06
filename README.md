@@ -361,3 +361,12 @@ Want all four playbooks in one comprehensive package? Get the **Open-Source Proj
 ## License
 
 MIT License - Use and adapt for your own open source launches!
+
+## 📖 Full Guides & Blog Posts
+
+- [AFFiNE GitHub Stars: How We Grew from 0 to 60K](https://gingiris.github.io/growth-tools/blog/2026/03/25/how-to-get-more-github-stars-the-definitive-guide-33k-stars-case-study/)
+- [GitHub Star Growth: 10 Proven Tactics](https://gingiris.github.io/growth-tools/blog/2026/03/27/github-star-growth-10-proven-tactics-that-got-us-33k-stars/)
+- [GitHub Stars History: How to Track & Analyze Growth](https://gingiris.github.io/growth-tools/blog/2026/03/30/github-stars-history-how-to-track-and-analyze-repository-growth/)
+- [GitHub README Best Practices: How to Write a README That Gets Stars](https://gingiris.github.io/growth-tools/blog/2026/03/29/github-readme-best-practices-how-to-write-a-readme-that-gets-stars/)
+- [I Led AFFiNE from 0 to 60K Stars — Open Source Growth Playbooks](https://gingiris.github.io/growth-tools/blog/2026/03/07/i-led-affine-from-0-to-60k-github-stars-here-are-my-open-source-growth-playbooks/)
+
