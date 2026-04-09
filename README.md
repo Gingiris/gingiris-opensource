@@ -4,7 +4,7 @@
 
 # Open Source Launch Marketing Playbook
 
-### Complete SOP for OSS launches — GitHub star growth, KOL partnerships, Reddit marketing, community distribution
+### The complete open source marketing guide — how to get GitHub stars, github stars growth, KOL partnerships, community distribution
 
 [![GitHub stars](https://img.shields.io/github/stars/Gingiris/gingiris-opensource?style=social)](https://github.com/Gingiris/gingiris-opensource/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Gingiris/gingiris-opensource?style=social)](https://github.com/Gingiris/gingiris-opensource/network/members)
