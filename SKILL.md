@@ -1,7 +1,7 @@
 ---
 name: gingiris-opensource
 description: |
-  🇺🇸 Open Source Launch Marketing Playbook — Complete SOP from strategy to execution. GitHub star growth tactics, KOL partnership lists, Reddit marketing, community distribution across global channels.
+  🇺🇸 Open Source Marketing Playbook — How to get 10k+ GitHub stars. Proven OSS go-to-market SOP from AFFiNE (60k stars in 24 months). GitHub trending strategy, HackerNews launch, Reddit r/programming, developer community growth, KOL partnerships, awesome-lists, contributor acquisition.
   
   🇨🇳 开源项目发布整合营销手册 — 从战略到执行的完整 SOP。GitHub Star 增长策略、KOL 合作清单、Reddit 运营、海外群组分发。
   
@@ -9,7 +9,7 @@ description: |
   
   🇰🇷 오픈소스 런칭 마케팅 플레이북 — 전략부터 실행까지 완벽한 SOP. GitHub 스타 성장 전략, KOL 파트너십, Reddit 마케팅, 글로벌 커뮤니티 배포.
   
-  Triggers: "open source launch" | "GitHub stars" | "OSS marketing" | "developer community" | "Reddit marketing" | "community distribution" | "开源发布" | "GitHub Star"
+  Triggers: "open source launch" | "OSS launch" | "GitHub stars" | "10k stars" | "GitHub trending" | "HackerNews launch" | "Show HN" | "OSS marketing" | "OSS go-to-market" | "developer relations" | "DevRel" | "developer community" | "Reddit r/programming" | "community distribution" | "awesome list" | "contributor acquisition" | "开源发布" | "GitHub Star" | "开源营销"
 ---
 
 # 开源项目发布整合营销行动手册
