@@ -71,13 +71,17 @@
 
 ## 🦞 Use with AI Agents
 
-This playbook is available as a **ClawdHub Skill** — install it directly into Claude Code, OpenClaw, or any compatible AI agent:
+This playbook is available as a **ClawHub Skill** — install it directly into Claude Code, OpenClaw, or any compatible AI agent:
+
+[![Install on ClawHub](https://img.shields.io/badge/Install_on-ClawHub-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)](https://clawhub.ai/s17chgpcnapq54m54xxkc8ge4983hzj2/gingiris-opensource)
 
 ```bash
 clawhub install gingiris-opensource
 ```
 
 > Your AI agent can then help you execute OSS marketing strategies and track your GitHub growth.
+>
+> 📦 **Also available**: [All Gingiris Growth Playbooks on ClawHub](https://clawhub.ai/u/gingiris)
 
 ---
 
