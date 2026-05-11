@@ -127,6 +127,7 @@
 |:---|:---|:---|
 | Phantombuster | Twitter/LinkedIn 自动化 DM 和评论 | 订阅制 |
 | Opencord.ai | Twitter AI 自动评论 | 订阅制 |
+| [Xquik](https://xquik.com) | Twitter 搜索、用户推文和 Follower 导出 API | 付费 |
 | Sheet0.com | 抓取 Twitter 用户列表 | - |
 | idea-hunt.com | 发现 Reddit 热门讨论 | - |
 | Star-history.com | 监测 GitHub Star 历史 | 免费 |

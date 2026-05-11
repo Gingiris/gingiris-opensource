@@ -49,6 +49,7 @@ Confirm budget → Match KOLs → Get quotes → Confirm intent
 ### Tools
 - **Phantombuster**: Twitter/LinkedIn auto DM and comments
 - **Opencord.ai**: Twitter AI auto-comment
+- **[Xquik](https://xquik.com)**: Twitter search, profile tweets, and follower export API
 - **Sheet0.com**: Scrape Twitter user lists
 - **Conversion rate**: ~1%
 

@@ -59,6 +59,7 @@
 
 - **Phantombuster**: Twitter/LinkedIn 自动化 DM 和评论
 - **Opencord.ai**: Twitter AI 自动评论
+- **[Xquik](https://xquik.com)**: Twitter 搜索、用户推文和 Follower 导出 API
 - **Sheet0.com**: 抓取 Twitter 用户列表
 - **转化率**: 约 1%
 

@@ -98,6 +98,7 @@
 |:---|:---|
 | Phantombuster | Twitter/LinkedIn automation |
 | Opencord.ai | Twitter AI comments |
+| [Xquik](https://xquik.com) | Twitter search, profile tweets, and follower export API |
 | Sheet0.com | Scrape Twitter lists |
 | idea-hunt.com | Find Reddit discussions |
 | Star-history.com | GitHub Star history |
